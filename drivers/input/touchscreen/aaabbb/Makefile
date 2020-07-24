@@ -1,1 +1,0 @@
-obj-$(CONFIG_TOUCHSCREEN_AAABBB_TOUCHFEATURE) += aaabbb_touch.o
